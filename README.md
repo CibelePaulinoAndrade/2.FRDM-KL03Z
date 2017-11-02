@@ -1,9 +1,11 @@
-# 2.FRDM-KL03Z-
+# Blinky alternado simples
 
-Blinky 2 
-freescale FRDM-KL03Z
-Kinetis Desing Studio
+## Tecnologias
+1. Kinetis Desing Studio
+2. freescale FRDM-KL03Z
 
+## Descrição
 --- Blinky alternado simples ---
-Alterna entre os led's vermelho, verde e azul
-Código simples (força bruta)
+*Alterna entre os led's vermelho, verde e azul
+*Código simples (força bruta)
+
