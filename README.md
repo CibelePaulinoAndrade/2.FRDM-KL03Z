@@ -6,6 +6,6 @@
 
 ## Descrição
 --- Blinky alternado simples ---
-*Alterna entre os led's vermelho, verde e azul
-*Código simples (força bruta)
+* Alterna entre os led's vermelho, verde e azul
+* Código simples (força bruta)
 
